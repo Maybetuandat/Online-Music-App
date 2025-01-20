@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397903086489",
+    "project_id": "onlinemusicapp-45390",
+    "storage_bucket": "onlinemusicapp-45390.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397903086489:android:0f5faeb00a2b52e8c44908",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzqRO-4nYJ_N-dcSKV0gb7uN8UESf2VRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397903086489:android:50cc707c867e61c9c44908",
+        "android_client_info": {
+          "package_name": "com.example.onlinemusicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzqRO-4nYJ_N-dcSKV0gb7uN8UESf2VRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
